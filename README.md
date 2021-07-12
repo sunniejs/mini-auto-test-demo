@@ -1,6 +1,3 @@
----
-theme: qklhk-chocolate
----
 
 
 ### 背景
@@ -219,7 +216,9 @@ npm run e2e
 
 ### 关于我
 
-微信搜索公众号：'前端女塾'，回复"前端"找到我，加入”前端仙女群“，快来组织在等你~
+微信搜索公众号：'前端女塾'，或扫描二维码 。回复"前端"找到我，加入”前端仙女群“，快来组织在等你~
+
+![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9b97362a26b74270a56bd340e73ab3de~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 最后，如果文章对你有用就给我点个赞吧，你的每一个点赞我都认真的当成了喜欢~
