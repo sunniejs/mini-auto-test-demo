@@ -211,8 +211,6 @@ npm run e2e
 ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/72cea710f66f4553a649ecaa206b3a7e~tplv-k3u1fbpfcp-watermark.image)
 
 到此，我们已经可以写测试用例了。这只是入门系列，后续会持续更文，感谢大家的耐心阅读，如果你有任何问题都可以留言给我，摸摸哒
-### github
-
 
 ### 关于我
 
